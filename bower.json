@@ -1,0 +1,7 @@
+{
+  "name": "yegrb-oct-2013",
+  "version": "0.1.0",
+  "dependencies": {
+    "reveal.js": "master"
+  }
+}
